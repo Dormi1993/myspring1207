@@ -1,0 +1,5 @@
+<myBean id="person" class="com.myspring2.bean.Person">
+    <myProperty name="name" value="罗兵汉"></myProperty>
+    <myProperty name="id" value="110123194610011234"></myProperty>
+    <myProperty name="sex" value="男"></myProperty>
+</myBean>
